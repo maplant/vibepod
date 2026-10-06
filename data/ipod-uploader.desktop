@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=iPod Uploader
+Comment=Copy your music library to a connected iPod
+Exec=ipod-uploader
+Icon=multimedia-player
+Terminal=false
+Type=Application
+Categories=AudioVideo;Audio;GTK;GNOME;
